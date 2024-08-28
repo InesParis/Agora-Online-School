@@ -146,8 +146,7 @@ header a:hover {
 .grid-3-columns {
   grid-template-columns: 1fr 1fr 1fr;
 }
-.video {
-}
+
 footer {
   color: #f3d6c1;
   background-image: linear-gradient(rgba(0, 0, 0, 0.8), rgba(0, 0, 0, 0.8)),
